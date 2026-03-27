@@ -1,4 +1,4 @@
-<div align="center"> 
+
     
 # 🩺 CKD Clinical Support System
 
